@@ -28,7 +28,6 @@ a{
     background-color: #000000;
     display: grid;
     grid-template-columns: 0.4fr 1.6fr;
-    height: 100vh;
     align-items: center;
 }
 
